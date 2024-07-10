@@ -3,13 +3,16 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-}
-background-color: lightblue;
+<!DOCTYPE html>
+<html>
 <body>
- {
-  ;
-}
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
 </body>
+</html>
 
 # REDBULL
 
