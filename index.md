@@ -12,7 +12,7 @@ style="background-color:#191970;">
 <h2 style="color:#FFFFFF;">Donne des ailes</h2>
  
 ![Texte décrivant l'image]({% link images/RedBull.jfif %})
-(https://www.redbull.com/fr-fr/). 
+<a href="https://www.redbull.com/fr-fr/">link text</a> 
 
 <p style="color:#FFFFFF;">
 
