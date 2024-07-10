@@ -4,7 +4,7 @@ order: 1
 in_menu: true
 ---
 <body
-style="background-color:#191970;">
+style="background-color:#002F65;">
 </body> 
 
 <h1 style="color:#E31351;">REDBULL</h1>
