@@ -19,7 +19,7 @@ style="text-align: center;"
 ![Pas de RedBull à la CCI]({% link images/RedBull.jfif %})
 <a
 style="color:#FFFFFF;" 
-href="https://www.redbull.com/fr-fr/">link text
+href="https://www.redbull.com/fr-fr/">Envie d'une RedBull ?
 </a> 
 
 <p style="color:#FFFFFF;">
