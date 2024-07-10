@@ -3,13 +3,13 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: lightblue;
 }
+background-color: lightblue;
+<body>
+ {
+  ;
+}
+</body>
 
 # REDBULL
 
