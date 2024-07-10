@@ -4,7 +4,7 @@ order: 1
 in_menu: true
 ---
 body {
-  background-color: #191970;
+  background-color: "#191970";
 }
 
 # RedBull
