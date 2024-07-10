@@ -3,10 +3,6 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-<!DOCTYPE html>
-<html>
-<body>
-
 <h1>REDBULL</h1>
 
 <h2>Donne des ailes.</h2>
@@ -16,5 +12,5 @@ in_menu: true
 
 <p>Ceci est un paragraphe.</p>
 
-</body>
-</html> 
+<body style="background-color:#191970;">
+</body> 
