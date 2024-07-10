@@ -9,7 +9,7 @@ style="background-color:#191970;">
 
 <h1 style="color:#FFFFFF;">REDBULL</h1>
 
-<h2 style="color:#FFFFFF;">Donne des ailes.</h2>
+<h2 style="color:#FFFFFF;">Donne des ailes</h2>
  
 ![Texte décrivant l'image]({% link images/RedBull.jfif %})
 (https://www.redbull.com/fr-fr/). 
