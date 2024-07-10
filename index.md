@@ -8,7 +8,7 @@ in_menu: true
 
 <h1 style="background-color:FFFFFF#;">REDBULL</h1>
 
-<h2>Donne des ailes.</h2>
+<h2 style="background-color:FFFFFF#;">Donne des ailes.</h2>
 
 ![Texte décrivant l'image]({% link images/RedBull.jfif %})
 (https://www.redbull.com/fr-fr/). 
