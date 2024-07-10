@@ -10,10 +10,6 @@ in_menu: true
 body {
   background-color: lightblue;
 }
-</style>
-</head>
-<body>
-
 
 # REDBULL
 
