@@ -7,16 +7,12 @@ in_menu: true
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>REDBULL</h1>
 
-<p>My first paragraph.</p>
+<p>Donne des ailes.</p>
 
 </body>
 </html>
-
-# REDBULL
-
-## Donne des ailes
 
 ![Texte décrivant l'image]({% link images/RedBull.jfif %})
 (https://www.redbull.com/fr-fr/). 
