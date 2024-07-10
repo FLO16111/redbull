@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 4
+order: 0
 in_menu: true
 ---
 <header>
