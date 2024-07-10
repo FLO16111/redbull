@@ -6,7 +6,7 @@ in_menu: true
 <body style="background-color:#191970;">
 </body> 
 
-<h1 style="background-color:000000#;">REDBULL</h1>
+<h1 style="background-color:FFFFFF#;">REDBULL</h1>
 
 <h2>Donne des ailes.</h2>
 
