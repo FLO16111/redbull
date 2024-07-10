@@ -13,6 +13,6 @@ body {
 
 ### Pour aller là haut 
 
-(https://www.redbull.com/fr-fr/).
+![Texte décrivant l'image]({% link images/RedBull.jfif %})
 
-![Texte décrivant l'image]({% link images/Image1.jfif %}) 
+(https://www.redbull.com/fr-fr/). 
