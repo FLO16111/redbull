@@ -7,7 +7,10 @@ in_menu: true
 style="background-color:#002F65;">
 </body> 
 
-<h1 style="color:#E31351;">REDBULL</h1>
+<h1 
+style="color:#E31351;"
+style="text-align: center;"
+>REDBULL</h1>
 
 <h2 style="color:#FFFFFF;">Donne des ailes</h2>
  
