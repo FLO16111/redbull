@@ -15,7 +15,8 @@ style="text-align: center;">Donne des ailes</h2>
 ![Pas de RedBull à la CCI]({% link images/RedBull.jfif %})
 <a style="color:#FfCD00;"
 style="text-align: center;"
-href="https://www.redbull.com/fr-fr/">Envie d'une RedBull ?</a> 
+href="https://www.redbull.com/fr-fr/"
+style="text-align: center;">Envie d'une RedBull ?</a> 
 
 <p style="color:#FFFFFF;"
 style="text-align: center;"
