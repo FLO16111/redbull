@@ -11,7 +11,7 @@ in_menu: true
 <h2 style="color:#FFFFFF;">Donne des ailes</h2>
  
 ![Pas de RedBull à la CCI]({% link images/RedBull.jfif %})
-<a style="color:#FFFFFF;" 
+<a style="color:#FfCD00;" 
 href="https://www.redbull.com/fr-fr/">Envie d'une RedBull ?</a> 
 
 <p style="color:#FFFFFF;">
