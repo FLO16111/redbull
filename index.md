@@ -9,10 +9,12 @@ in_menu: true
 
 <h1>REDBULL</h1>
 
-<p>Donne des ailes.</p>
-
-</body>
-</html>
+<h2>Donne des ailes.</h2>
 
 ![Texte décrivant l'image]({% link images/RedBull.jfif %})
 (https://www.redbull.com/fr-fr/). 
+
+<p>Ceci est un paragraphe.</p>
+
+</body>
+</html> 
