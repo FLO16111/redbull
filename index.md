@@ -3,6 +3,10 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
+body {
+  background-color: #191970;
+}
+
 # RedBull
 
 ## Donne des ailes
