@@ -3,6 +3,12 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<title>Titre de la page</title> 
+</head>
+
 <body style="background-color:#002F65;">
 </body> 
 
